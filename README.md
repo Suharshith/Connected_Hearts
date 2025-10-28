@@ -30,7 +30,7 @@ A complete marriage bureau website built with React frontend and Spring Boot bac
 ## Project Structure
 
 ```
-marriage-bureau/
+connected hearts/
 ├── frontend/          # React frontend application
 │   ├── public/       # Static assets
 │   ├── src/          # Source code
@@ -122,4 +122,5 @@ marriage-bureau/
 - Chat/messaging system
 - Email notifications
 - Admin panel for profile moderation
+
 
