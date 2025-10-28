@@ -1,4 +1,4 @@
-# Marriage Bureau Fullstack Website
+# connected hearts Fullstack Website
 
 A complete marriage bureau website built with React frontend and Spring Boot backend, using MongoDB for data storage.
 
@@ -122,3 +122,4 @@ marriage-bureau/
 - Chat/messaging system
 - Email notifications
 - Admin panel for profile moderation
+
